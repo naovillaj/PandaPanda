@@ -3,12 +3,12 @@
 
 <p>Hicimos un "nav" con las siguientes opciones:
 
-	<ul>
-		<li>Inicio</li>
-		<li>Pandas</li>
-		<li>Historia</li>
-		<li>Extinción</li>
-	</ul>
+	
+		*Inicio
+		*Pandas
+		*Historia
+		*Extinción
+	
 
 </p>
 
@@ -18,11 +18,11 @@
 
 <p>Luego, hay 3 opciones:
 
-	<ul>
-		<li>Origen</li>
-		<li>Extinción</li>
-		<li>Restaurar fotos</li>
-	</ul>
+	
+		*Origen
+		*Extinción
+		*Restaurar fotos
+	
 </p>
 
 <p>La primera opción está asociada a un párrafo que se ubica debajo de las opciones y ocupa mitad de pantalla con la descripción del origen de los pandas, la segunda opción está asociada al párrafo ubicado a lado del primero, este contiene la descripción de la extinción de los pandas.</p>
