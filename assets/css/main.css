@@ -17,7 +17,7 @@ nav {
 }
 
 a {
-  color: #E7BD4C;
+  color: #E8E8B0;
   margin: 10px;
   margin-top: 20px;
   
@@ -47,7 +47,7 @@ span {
 
 	position: absolute;
 	text-align: left;
-	color: #E7BD4C;
+	color: #E8E8B0;
 	z-index: 3;
 	top: 5px;
 	left: 10px;
@@ -85,7 +85,7 @@ span:hover {
 
 #descripcion p {
 	margin: 0 14px;
-	color: #E7BD4C;
+	color: #E8E8B0;
 	display: inline-flex;
 	width: 45%;
 	text-align: justify;
