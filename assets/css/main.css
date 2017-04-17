@@ -17,7 +17,7 @@ nav {
 }
 
 a {
-  color: white;
+  color: #E7BD4C;
   margin: 10px;
   margin-top: 20px;
   
@@ -47,7 +47,7 @@ span {
 
 	position: absolute;
 	text-align: left;
-	color: white;
+	color: #E7BD4C;
 	z-index: 3;
 	top: 5px;
 	left: 10px;
@@ -71,7 +71,7 @@ span:hover {
 	width: 300px;
 	text-align: center;
 	padding-top: 5px;
-	color: white;
+	color: #E7BD4C;
 }
 
 #menu p:hover {
@@ -85,7 +85,7 @@ span:hover {
 
 #descripcion p {
 	margin: 0 14px;
-	color: white;
+	color: #E7BD4C;
 	display: inline-flex;
 	width: 45%;
 	text-align: justify;
