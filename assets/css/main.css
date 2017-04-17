@@ -31,11 +31,12 @@ a:hover {
 	padding-top: 20px;
 }
 
-.cerrar {
+.cerrar {	
 	position: relative;
 	display: inline-block;
 	margin-right: 10px;
 }
+
 
 img {
 	border: 5px solid gray;
@@ -89,4 +90,14 @@ span:hover {
 	width: 45%;
 	text-align: justify;
 	white-space: pre-line;
+}
+
+#origenPanda, #extincionPanda {
+	opacity: 1;
+	visibility: visible;
+}
+
+#origenPanda.active, #extincionPanda.active {
+	opacity: 0;
+	visibility: hidden;
 }
