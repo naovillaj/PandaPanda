@@ -1,3 +1,92 @@
-#body {
-	padding: 5px 150px;
+body {
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	background-color: #1D1A05;
+}
+
+header{
+	margin-top: 0;
+	margin-left: 0;
+	background-color: #CA3C25;
+	height: 50px;
+}
+
+nav {
+	margin: 0 150px;
+	padding-top: 15px;
+}
+
+a {
+  color: white;
+  margin: 10px;
+  margin-top: 20px;
+  
+}
+a:hover {
+  color: #E95853;
+}
+
+#pandaImagen {
+	margin: 0 150px;
+	padding-top: 20px;
+}
+
+.cerrar {
+	position: relative;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+img {
+	border: 5px solid gray;
+	
+}
+
+span {
+
+	position: absolute;
+	text-align: left;
+	color: white;
+	z-index: 3;
+	top: 5px;
+	left: 10px;
+	font-size: 20px;
+
+}
+
+span:hover {
+	color: #E95853;
+	cursor: pointer;
+}
+
+#menu {
+	margin: 0 150px;
+}
+
+#menu p {
+	display: inline-block;
+	background-color: #CA3C25;
+	height: 20px;
+	width: 300px;
+	text-align: center;
+	padding-top: 5px;
+	color: white;
+}
+
+#menu p:hover {
+	color: #E95853;
+	cursor: pointer;
+}
+
+#descripcion {
+	margin: 0 150px;
+}
+
+#descripcion p {
+	margin: 0 14px;
+	color: white;
+	display: inline-flex;
+	width: 45%;
+	text-align: justify;
+	white-space: pre-line;
 }
